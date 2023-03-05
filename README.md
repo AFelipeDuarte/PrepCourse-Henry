@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un archivo de prueba para el modulo 2 de el PrepCourse Henry 
+Este proyecto es una prueba de un repositorio en Git hub
